@@ -290,7 +290,7 @@ class _SignInState extends State<SignIn> with SingleTickerProviderStateMixin {
                     width: double.infinity,
                     height: containerSize.value,
                     decoration: const BoxDecoration(
-                      color: Color.fromRGBO(225, 225, 225, 1),
+                      color: Color.fromRGBO(217, 217, 217, 1),
                       borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(100),
                           topRight: Radius.circular(100)),
